@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/kidney_disease_prediction/__init__.py
+src/kidney_disease_prediction.egg-info/PKG-INFO
+src/kidney_disease_prediction.egg-info/SOURCES.txt
+src/kidney_disease_prediction.egg-info/dependency_links.txt
+src/kidney_disease_prediction.egg-info/top_level.txt
+src/kidney_disease_prediction/components/__init__.py
+src/kidney_disease_prediction/config/__init__.py
+src/kidney_disease_prediction/config/configuration.py
+src/kidney_disease_prediction/constants/__init__.py
+src/kidney_disease_prediction/entity/__init__.py
+src/kidney_disease_prediction/pipeline/__init__.py
+src/kidney_disease_prediction/utils/__init__.py
